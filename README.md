@@ -1,5 +1,7 @@
-#Demo Project README
+# Demo Project README
 
 This is a simple readme file
 
-Added text
+## Heading 2
+
+Just some updates on a branch
